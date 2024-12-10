@@ -1,0 +1,2 @@
+C:\Users\EVRV\Documents\Unity Projects\Create with Code\Environment VR BTX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\EVRV\Documents\Unity Projects\Create with Code\Environment VR BTX\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
